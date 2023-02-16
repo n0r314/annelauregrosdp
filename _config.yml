@@ -4,7 +4,7 @@ email: your-email@domain.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Facilitatrice en Discipline Positive"
 keywords: "education, bienveillance, coopération"
-skills: "Hop - Hop - Hop"
+phrase: "Et si on apprenait à coopérer ?"
 meta_author: Gros Anne-Laure
 
 # Google webmaster tools
@@ -25,10 +25,11 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 5390c9 #18bc9c #80B3FF
+  primary-rgb: "255,0,0" #"24,288,156" #"128,179,255"
+  secondary: f6c024 #2c3e50 #FD6E8A
+  secondary-dark: e47352 #233140 #A2122F
+  dark: c7c7c7
 
 # Footer settings
 footer:
@@ -50,10 +51,10 @@ social:
   - title: github
     url: http://github.com/jekyll
 
-# Postal address (add as many lines as necessary)
+# Postal address (add as many lines as necessary) and phone number
 address:
-  - line: 9 La Demerie
-  - line: 35410 Châteaugiron
+  - line: Châteaugiron
+  - line: 06 30 91 29 80
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
