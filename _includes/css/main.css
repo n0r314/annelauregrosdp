@@ -9,6 +9,10 @@ body {
     font-family: {{site.fonts.sans-serif}};
 }
 
+.contact-info  {
+    color: #{{site.color.dark}};
+}
+
 p {
     font-size: 20px;
 }
@@ -39,7 +43,7 @@ h6 {
 
 hr.star-light,
 hr.star-primary {
-    margin: 25px auto 30px;
+    margin: 25px auto 60px;
     padding: 0;
     max-width: 250px;
     border: 0;
@@ -256,9 +260,6 @@ section.success {
 }
 
 /* Flexbox Portfolio Grid */
-.portfolio-flex-grid .portfolio-flex-row {
-    margin-top: 30px;
-  }
 
 @media (min-width: 640px) {
     .portfolio-flex-grid .portfolio-flex-row {
@@ -266,7 +267,6 @@ section.success {
       flex-flow: row wrap;
       align-items: stretch;
       justify-content: space-between;
-      margin-top: 60px;
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
@@ -490,3 +490,4 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
