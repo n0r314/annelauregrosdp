@@ -3,7 +3,7 @@ title: Anne-Laure Gros
 email: your-email@domain.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Facilitatrice en Discipline Positive"
-keywords: "education, bienveillance, coopération"
+keywords: "education, bienveillance, coopération, ateliers, conférences"
 phrase: "Et si on apprenait à coopérer ?"
 meta_author: Gros Anne-Laure
 
@@ -38,7 +38,6 @@ fonts:
   serif: "'Josefin Slab', serif"
 
 
-
 # Footer settings
 footer:
   copyright: Anne-Laure Gros
@@ -60,7 +59,7 @@ address:
   - line: 06 30 91 29 80
 
 # Credits content
-credits: "Plus d'info sur les sites des associations de Discipline Positive française (<a href='http://www.disciplinepositive.fr/'>ADPF</a>) et américaine (<a href='https://positivediscipline.org/'>PDA</a>)."
+credits: "Plus d'info sur les sites des associations de Discipline Positive française (<a href='http://www.disciplinepositive.fr/' target='_blank' rel='noopener noreferrer'>ADPF</a>) et américaine (<a href='https://positivediscipline.org/' target='_blank' rel='noopener noreferrer'>PDA</a>)."
 
 # Build settings
 markdown: kramdown
