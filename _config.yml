@@ -31,33 +31,36 @@ color:
   secondary-dark: e47352 #233140 #A2122F
   dark: c7c7c7
 
+# Custom fonts
+fonts: 
+  sans-serif: "'Questrial', sans-serif"
+  cursive: "'Just Another Hand', cursive"
+  serif: "'Josefin Slab', serif"
+
+
+
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Anne-Laure Gros
+  location: Contact
+  social: Réseaux
+  credits: Discipline Positive
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: instagram
+    url: https://www.instagram.com/annelauregrosdp/
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/annelauregrosdp/
+
 
 # Postal address (add as many lines as necessary) and phone number
 address:
-  - line: Châteaugiron
+  - line: Châteaugiron (35)
   - line: 06 30 91 29 80
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: "Plus d'info sur les sites des associations de Discipline Positive française (<a href='http://www.disciplinepositive.fr/'>ADPF</a>) et américaine (<a href='https://positivediscipline.org/'>PDA</a>)."
 
 # Build settings
 markdown: kramdown
