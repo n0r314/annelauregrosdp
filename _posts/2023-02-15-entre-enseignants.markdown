@@ -33,7 +33,7 @@ Je propose d'accompagner les équipes éducatives en fonction de leur besoin :
 - animer des séances de résolution de problèmes entre enseignant
 - **former** un groupe à la Disicipline Positive de façon certifiante sur quelques jours. 
 
-<img src="/img/assets/dp_classe.png" width="200" alt="livre de la discipline positive dans la classe">
+<img src="img/assets/dp_classe.png" width="200" alt="livre de la discipline positive dans la classe">
 
 ### Ce qu'ils en disent 
 

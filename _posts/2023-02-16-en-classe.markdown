@@ -35,7 +35,7 @@ Je m'appuie sur les outils de la Discipline Positive qui :
 - enseignent les **compétences sociales**
 - cherchent l'efficacité sur le **long terme**
 
-<img src="/img/assets/dp_classe.png" width="200" alt="livre de la discipline positive dans la classe">
+<img src="img/assets/dp_classe.png" width="200" alt="livre de la discipline positive dans la classe">
 
 
 ### Ce qu'ils en disent 
