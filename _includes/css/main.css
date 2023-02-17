@@ -78,7 +78,7 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
-    background-color: #fff;
+    background-color: #fff ;
 }
 
 .fa-times {
@@ -515,4 +515,18 @@ footer .footer-below {
     margin-bottom: 50px;
     text-align: justify;
     color: #{{ site.color.dark }};
+}
+
+.portfolio-modal .modal-text h3 {
+    margin-top: 50px;
+}
+
+.portfolio-modal .modal-text ul li {
+    font-size: 1.33em;
+}
+
+.portfolio-modal .modal-text img {
+    display: block;
+    margin: 30px auto;
+    width: 25%;
 }

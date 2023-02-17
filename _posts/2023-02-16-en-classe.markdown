@@ -4,14 +4,42 @@ modal-id: 1
 title: En classe
 img: classe.jpg
 alt: image-alt
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Intervenante en Discipline Positive, j'anime des ateliers en classe tout au long de l'année pour développer les compétences psychosociales
 ---
 
-eoiurzeiou rueoiur roiuer ier
-# erjezriuzei
-## zeorzeiuu
-iuzeiruzeoriuioe
-zoieruziruiouio
+> On fait mieux quand on se sent mieux.      
+> <span style="font-size:small">*Jane Nelsen*</span>    
+     
+
+### Pourquoi ?
+
+Une classe plus sereine ? Des élèves qui se prennent en main ? Ce n'est pas impossible mais ça n'arrive pas magiquement... **ça s'apprend** ! 
+
+On demande beaucoup aux enseignant.e.s aujourd'hui et ils n'ont pas toujours les moyens d'animer des temps dédiés au développement des compétences psychosociales ou de se former. De plus, comme intervenante, je permets un détachement et une distance avec les élèves que les enseignant.e.s ne peuvent avoir. 
+
+Mon expérience dans l'enseignement et mon écoute bienveillante me permettent de proposer des parcours adaptés à chaque groupe d'élèves, de la maternelle à l'âge adulte. 
 
 
-izeruizeuriozeur iurzoeier uoi uiourer oiuer
+
+
+### Comment ?
+
+J'anime des moments actifs et parfois ludiques adaptés à l'âge des enfants régulièrement tout au long de l'année. 
+
+Je peux aussi animer sur de courtes durées sur des thèmes spécifiques (communication, harcèlement scolaire, ... ).
+
+Je m'appuie sur les outils de la Discipline Positive qui : 
+- aident l'enfant à développer un **sentiment d'appartenir à un groupe**
+- s'appuient sur le **respect mutuel** (allier **bienveillance et fermeté**)
+- incitent l'enfant à découvrir ce dont il est **capable** et utilisent l'**encouragement** comme levier d'apprentissage
+- enseignent les **compétences sociales**
+- cherchent l'efficacité sur le **long terme**
+
+<img src="/img/assets/dp_classe.png" width="200" alt="livre de la discipline positive dans la classe">
+
+
+### Ce qu'ils en disent 
+
+> "Une expérience très positive tant pour les élèves que pour moi-même. Cela m'a permis une remise en question régulière, un dialogue toujours plus construit et une ambiance de classe sereine, bienveillante et apaisée avec des élèves acteurs de leur bien-être et de celui des autres"     
+> <span style="font-size:small">*S. (enseignante de maternelle)*</span>    
+
