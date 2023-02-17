@@ -4,5 +4,7 @@ modal-id: 2
 title: Entre enseignant.e.s
 img: enseignants.jpg
 alt: image-alt
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Envie d'apprendre entre enseignant.e.s comme faire naître et grandir plus de coopération dans vos classes ? Formatrice en Discipline Positive, je propose des formations qualifiantes.
+comment: "C'était trop cool"
+auteur-comment: S. (enseignante de maternelle)
 ---
