@@ -30,9 +30,7 @@ Je propose des **cycles d'atelier** d'environ 14h répartis en 7 soirées ou 4 d
 
 J'anime aussi des **conférences** de quelques heures pour permettre de faire découvrir la Discipline Positive et quelques outils concrets. 
 
-
-<img src="/img/assets/La-discipline-positive.jpg" width="200" alt="livre de discipline positive">
-
+![livre de discipline positive](/img/assets/La-discipline-positive.jpg)
 
 ### Ce qu'ils en disent 
 
