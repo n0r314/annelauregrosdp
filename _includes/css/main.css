@@ -499,6 +499,13 @@ footer .footer-below {
 }
 
 
+@media (max-width: 640px) {
+    .portfolio-modal .close-modal:hover, .portfolio-modal .close-modal  {
+        transform: scale(0.5) translate(30px, -30px);
+    }
+}
+
+
 
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
