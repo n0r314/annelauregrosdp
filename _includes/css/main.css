@@ -528,5 +528,11 @@ footer .footer-below {
 .portfolio-modal .modal-text img {
     display: block;
     margin: 30px auto;
-    width: 25%;
+    width: 50%;
+}
+
+@media (min-width: 640px) {
+    .portfolio-modal .modal-text img {
+        width: 25%;
+    }
 }
